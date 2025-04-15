@@ -2,8 +2,13 @@
 
 🎓 **System Analyst** | 🔧 **Backend Developer** | 💡 Passionate about building clean and scalable software.
 
-Welcome to my GitHub profile! I'm Anthony, a lifelong learner and technology enthusiast from Argentina 🇦🇷. I specialize in backend development and system architecture, but I also enjoy exploring different programming languages, frameworks, and paradigms. This profile showcases my learning journey, personal projects, and contributions.
+I'm a backend developer and systems analyst from Argentina, passionate about building robust and scalable software solutions. My work focuses on backend architecture, clean code practices, and effective system design. I also enjoy exploring various programming languages, development paradigms, and modern frameworks to broaden my expertise.
 
+This GitHub profile reflects my ongoing journey in software development, showcasing personal projects, open-source contributions, and technical experiments. Whether it's refining performance, designing APIs, or learning a new language, I’m always aiming to grow as a professional.
+
+- 🔧 Tech enthusiast with a deep love for backend development.
+- 🎯 Focused on quality, maintainability, and continuous improvement.
+- 🤝 Open to collaborations and innovative projects.
 ---
 
 ## 🚀 What I'm Working On
