@@ -2,9 +2,9 @@
 
 🎓 **System Analyst** | 🔧 **Backend Developer** 
 
-I'm a backend developer and systems analyst, passionate about building robust and scalable software solutions. My work focuses on backend architecture, clean code practices, and effective system design. I also enjoy exploring various programming languages, development paradigms, and modern frameworks to broaden my expertise.
+I'm a backend developer and systems analyst, passionate about building robust and scalable software solutions. My work focuses on software engineering, clean code practices, and effective system design. I also enjoy exploring various programming languages, development paradigms, and modern frameworks to broaden my expertise.
 
-- 🔧 Tech enthusiast with a deep love for backend development.
+- 🔧 Tech enthusiast with a deep love for software development.
 - 🎯 Focused on quality, maintainability, and continuous improvement.
 - 🤝 Open to collaborations and innovative projects.
 ---
