@@ -1,10 +1,8 @@
 # Hi, I'm Anthony Bañon 👨‍💻
 
-🎓 **System Analyst** | 🔧 **Backend Developer** | 💡 Passionate about building clean and scalable software.
+🎓 **System Analyst** | 🔧 **Backend Developer** 
 
-I'm a backend developer and systems analyst from Argentina, passionate about building robust and scalable software solutions. My work focuses on backend architecture, clean code practices, and effective system design. I also enjoy exploring various programming languages, development paradigms, and modern frameworks to broaden my expertise.
-
-This GitHub profile reflects my ongoing journey in software development, showcasing personal projects, open-source contributions, and technical experiments. Whether it's refining performance, designing APIs, or learning a new language, I’m always aiming to grow as a professional.
+I'm a backend developer and systems analyst, passionate about building robust and scalable software solutions. My work focuses on backend architecture, clean code practices, and effective system design. I also enjoy exploring various programming languages, development paradigms, and modern frameworks to broaden my expertise.
 
 - 🔧 Tech enthusiast with a deep love for backend development.
 - 🎯 Focused on quality, maintainability, and continuous improvement.
