@@ -13,7 +13,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 - 🌐 [LearnFW](https://github.com/anthonybanion/LearnFW): My repository for exploring and learning different frameworks like Django, Symfony, Laravel, Spring Boot, Express, and more.
 - 🧠 [Learning](https://github.com/anthonybanion/Learning): My coding playground for mastering programming languages such as Python, C++, Java, C#, JavaScript, PHP, and others.
-- 🎮 8bit-FreeGames: A retro gaming platform I'm co-creating based on 8-bit classics (coming soon!).
+- 🎮 [8bit-FreeGames](https://github.com/MarianoMaldonado-dev/8bit-freegames): A retro gaming platform I'm co-creating based on 8-bit classics (coming soon!).
 
 ---
 
