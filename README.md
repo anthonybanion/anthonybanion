@@ -59,7 +59,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 <p align="center">
   <a href="https://dev.to/anthonybanion" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" alt="Dev.to" />
+    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="30px" alt="Dev.to" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://anthonybanion.blogspot.com/" target="_blank">
