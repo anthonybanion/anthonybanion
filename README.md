@@ -62,20 +62,42 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 
 ---
-## 📬 Contact Me
+<h2 align="center">📬 Contact Me</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-anthonybanion@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonybanion@gmail.com)
+<p align="center">
+  <a href="mailto:anthonybanion@gmail.com" target="_blank" title="Gmail">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail icon" />
+  </a>
+</p>
 
-## 🌐 Social Media
+<h2 align="center">🌐 Social Media</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anthonybanion-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-[![Instagram](https://img.shields.io/badge/Instagram-anthonybanion-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
-[![Twitter](https://img.shields.io/badge/X-@anthonybanion-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anthonybanion)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn icon" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/anthonybanion/" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram icon" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/anthonybanion" target="_blank" title="Twitter (X)">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="30px" alt="Twitter icon" />
+  </a>
+</p>
 
-## ✍️ My Blogs
+<h2 align="center">✍️ My Blogs</h2>
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-anthonybanion-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
-[![Blogger](https://img.shields.io/badge/Blogger-anthonybanion-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
+<p align="center">
+  <a href="https://dev.to/anthonybanion" target="_blank" title="Dev.to">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969023.png" width="30px" alt="Dev.to icon" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://anthonybanion.blogspot.com/" target="_blank" title="Blogger">
+    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291662.png" width="30px" alt="Blogger icon" />
+  </a>
+</p>
+
 
 
 
