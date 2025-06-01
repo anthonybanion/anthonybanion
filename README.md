@@ -27,24 +27,40 @@ I'm a backend developer and systems analyst, passionate about building robust an
 - **Paradigms**: OOP, Procedural, Functional (where supported), Event-Driven.
 
 ---
-## 📬 Contact Me
+<h2>📬 Contact Me</h2>
 
-- [![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:anthonybanion@gmail.com)
+<a href="mailto:anthonybanion@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail" />
+</a>
 
----
+<hr/>
 
-## 🌐 Social Media
+<h2>🌐 Social Media</h2>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-- [![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/anthonybanion/)
-- [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anthonybanion)
+<a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn" />
+</a>
 
----
+<a href="https://www.instagram.com/anthonybanion/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram" />
+</a>
 
-## ✍️ My Blogs
+<a href="https://twitter.com/anthonybanion" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="30px" alt="X (Twitter)" />
+</a>
 
-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
-- [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
+<hr/>
+
+<h2>✍️ My Blogs</h2>
+
+<a href="https://dev.to/anthonybanion" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" alt="Dev.to" />
+</a>
+
+<a href="https://anthonybanion.blogspot.com/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" alt="Blogger" />
+</a>
+
 
 
 
