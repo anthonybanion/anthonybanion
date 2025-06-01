@@ -36,7 +36,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ## 🌐 Social Media
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
+- [!(https://www.flaticon.es/icono-gratis/instagram_2111463?term=instagram&page=1&position=2&origin=tag&related_id=2111463)](https://www.instagram.com/anthonybanion/)
 - [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anthonybanion)
 
 ---
