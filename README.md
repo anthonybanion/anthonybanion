@@ -65,38 +65,39 @@ I'm a backend developer and systems analyst, passionate about building robust an
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:anthonybanion@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail" />
+  <a href="mailto:anthonybanion@gmail.com" target="_blank" title="Gmail">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail icon" />
   </a>
 </p>
 
 <h2 align="center">🌐 Social Media</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn icon" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/anthonybanion/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram" />
+  <a href="https://www.instagram.com/anthonybanion/" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram icon" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/anthonybanion" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="30px" alt="X (Twitter)" />
+  <a href="https://twitter.com/anthonybanion" target="_blank" title="Twitter (X)">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="30px" alt="Twitter icon" />
   </a>
 </p>
 
 <h2 align="center">✍️ My Blogs</h2>
 
 <p align="center">
-  <a href="https://dev.to/anthonybanion" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969023.png" width="30px" alt="Dev.to" />
+  <a href="https://dev.to/anthonybanion" target="_blank" title="Dev.to">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969023.png" width="30px" alt="Dev.to icon" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://anthonybanion.blogspot.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291662.png" width="30px" alt="Blogger" />
+  <a href="https://anthonybanion.blogspot.com/" target="_blank" title="Blogger">
+    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291662.png" width="30px" alt="Blogger icon" />
   </a>
 </p>
+
 
 
 
