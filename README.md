@@ -62,38 +62,27 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 
 ---
-<h2 align="center">📬 Contact Me</h2>
+## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:anthonybanion@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
-  </a>
+  [![Gmail](https://cdn-icons-png.flaticon.com/32/732/732200.png)](mailto:anthonybanion@gmail.com)
 </p>
 
-<h2 align="center">🌐 Social Media</h2>
+## 🌐 Social Media
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/anthonybanion/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/anthonybanion" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40" alt="Twitter" />
-  </a>
+  [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/anthonybanion/)
+  [![Instagram](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/anthonybanion/)
+  [![Twitter](https://cdn-icons-png.flaticon.com/32/3670/3670151.png)](https://twitter.com/anthonybanion)
 </p>
 
-<h2 align="center">✍️ My Blogs</h2>
+## ✍️ My Blogs
 
 <p align="center">
-  <a href="https://dev.to/anthonybanion" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969023.png" width="40" alt="Dev.to" />
-  </a>
-  <a href="https://anthonybanion.blogspot.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291662.png" width="40" alt="Blogger" />
-  </a>
+  [![Dev.to](https://cdn-icons-png.flaticon.com/32/5969/5969023.png)](https://dev.to/anthonybanion)
+  [![Blogger](https://cdn-icons-png.flaticon.com/32/3291/3291662.png)](https://anthonybanion.blogspot.com/)
 </p>
+
 
 
 
