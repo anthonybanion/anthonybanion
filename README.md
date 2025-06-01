@@ -29,14 +29,14 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ---
 ## 📬 Contact Me
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anthonybanion@gmail.com)
+- [![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:anthonybanion@gmail.com)
 
 ---
 
 ## 🌐 Social Media
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-- [!(https://www.flaticon.es/icono-gratis/instagram_2111463?term=instagram&page=1&position=2&origin=tag&related_id=2111463)](https://www.instagram.com/anthonybanion/)
+- [![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/anthonybanion/)
 - [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anthonybanion)
 
 ---
