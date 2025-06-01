@@ -19,6 +19,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 -  [Learning](https://github.com/anthonybanion/Learning): My coding playground for mastering programming languages such as Python, C++, Java, C#, JavaScript, PHP, and others.
 - [Refactor](https://github.com/anthonybanion/Refactor): A collection of real-world projects refactored for readability, performance, and maintainability, using best practices across various languages and architectures.
 - [DevCourses](https://github.com/anthonybanion/DevCourses): A long-term archive where I organize all my development courses, with structured notes, exercises, code samples, and project reflections.
+- [Interfaces](https://github.com/anthonybanion/Interfaces): A growing collection of modular, interactive web interfaces built with HTML, CSS, and JavaScript. Each app is independent and presented in a card gallery to showcase frontend skills.
 - [8bit-FreeGames](https://github.com/MarianoMaldonado-dev/8bit-freegames): A retro gaming platform I'm co-creating based on 8-bit classics (coming soon!).
 
 ---
