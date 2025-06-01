@@ -63,7 +63,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://anthonybanion.blogspot.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" alt="Blogger" />
+    <img src="https://www.flaticon.com/free-icon/blogger_3291662?term=blogger&page=1&position=1&origin=search&related_id=3291662" width="30px" alt="Blogger" />
   </a>
 </p>
 
