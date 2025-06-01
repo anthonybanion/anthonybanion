@@ -27,7 +27,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 - **Paradigms**: OOP, Procedural, Functional (where supported), Event-Driven.
 
 ---
-<h2>📬 Contact Me</h2>
+<h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
   <a href="mailto:anthonybanion@gmail.com" target="_blank">
@@ -37,7 +37,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ---
 
-<h2>🌐 Social Media</h2>
+<h2 align="center">🌐 Social Media</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
@@ -55,7 +55,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ---
 
-<h2>✍️ My Blogs</h2>
+<h2 align="center">✍️ My Blogs</h2>
 
 <p align="center">
   <a href="https://dev.to/anthonybanion" target="_blank">
