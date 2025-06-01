@@ -64,24 +64,18 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ---
 ## 📬 Contact Me
 
-<p align="center">
-  [![Gmail](https://cdn-icons-png.flaticon.com/32/732/732200.png)](mailto:anthonybanion@gmail.com)
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-anthonybanion@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonybanion@gmail.com)
 
 ## 🌐 Social Media
 
-<p align="center">
-  [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/anthonybanion/)
-  [![Instagram](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/anthonybanion/)
-  [![Twitter](https://cdn-icons-png.flaticon.com/32/3670/3670151.png)](https://twitter.com/anthonybanion)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anthonybanion-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
+[![Instagram](https://img.shields.io/badge/Instagram-anthonybanion-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
+[![Twitter](https://img.shields.io/badge/X-@anthonybanion-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anthonybanion)
 
 ## ✍️ My Blogs
 
-<p align="center">
-  [![Dev.to](https://cdn-icons-png.flaticon.com/32/5969/5969023.png)](https://dev.to/anthonybanion)
-  [![Blogger](https://cdn-icons-png.flaticon.com/32/3291/3291662.png)](https://anthonybanion.blogspot.com/)
-</p>
+[![Dev.to](https://img.shields.io/badge/Dev.to-anthonybanion-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
+[![Blogger](https://img.shields.io/badge/Blogger-anthonybanion-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
 
 
 
