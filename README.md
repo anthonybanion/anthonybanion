@@ -56,10 +56,8 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ## ✍️ My Blogs
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-.-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
-[![Blogger](https://img.shields.io/badge/Blogger-.-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
-
-
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
+[![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
 
 
 ---
