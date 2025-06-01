@@ -54,13 +54,6 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-## 🧩 Paradigms
-![OOP](https://img.shields.io/badge/Paradigm-OOP-blue?style=for-the-badge)
-![Procedural](https://img.shields.io/badge/Paradigm-Procedural-orange?style=for-the-badge)
-![Functional](https://img.shields.io/badge/Paradigm-Functional-green?style=for-the-badge)
-![Event--Driven](https://img.shields.io/badge/Paradigm-Event--Driven-purple?style=for-the-badge)
-
-
 ---
 <h2 align="center">📬 Contact Me</h2>
 
