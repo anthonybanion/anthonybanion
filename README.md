@@ -28,15 +28,16 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ---
 <h2>📬 Contact Me</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <a href="mailto:anthonybanion@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail" />
   </a>
 </div>
+
 <hr/>
 
 <h2>🌐 Social Media</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn" />
   </a>
@@ -51,7 +52,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 <hr/>
 
 <h2>✍️ My Blogs</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <a href="https://dev.to/anthonybanion" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" alt="Dev.to" />
   </a>
@@ -59,6 +60,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" alt="Blogger" />
   </a>
 </div>
+
 
 
 
