@@ -43,7 +43,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
   <a href="https://www.linkedin.com/in/anthonybanion/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/anthonybanion/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram" />
   </a>
@@ -61,7 +61,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
   <a href="https://dev.to/anthonybanion" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="30px" alt="Dev.to" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://anthonybanion.blogspot.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" alt="Blogger" />
   </a>
