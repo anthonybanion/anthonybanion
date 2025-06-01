@@ -13,9 +13,9 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 -  [Framework](https://github.com/anthonybanion/Framework): My repository for exploring and learning different frameworks like Django, Symfony, Laravel, Spring Boot, Express, and more.
 -  [Learning](https://github.com/anthonybanion/Learning): My coding playground for mastering programming languages such as Python, C++, Java, C#, JavaScript, PHP, and others.
--  [8bit-FreeGames](https://github.com/MarianoMaldonado-dev/8bit-freegames): A retro gaming platform I'm co-creating based on 8-bit classics (coming soon!).
 - [Refactor](https://github.com/anthonybanion/Refactor): A collection of real-world projects refactored for readability, performance, and maintainability, using best practices across various languages and architectures.
 - [DevCourses](https://github.com/anthonybanion/DevCourses): A long-term archive where I organize all my development courses, with structured notes, exercises, code samples, and project reflections.
+- [8bit-FreeGames](https://github.com/MarianoMaldonado-dev/8bit-freegames): A retro gaming platform I'm co-creating based on 8-bit classics (coming soon!).
 
 ---
 
@@ -30,11 +30,11 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anthonybanion/)
-- [Instagram](https://www.instagram.com/anthonybanion/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-- [![Dev.to blog](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
+- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caterva17@gmail.com)
+- [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anthonybanion)
 
 
 
