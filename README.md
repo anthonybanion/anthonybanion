@@ -27,14 +27,24 @@ I'm a backend developer and systems analyst, passionate about building robust an
 - **Paradigms**: OOP, Procedural, Functional (where supported), Event-Driven.
 
 ---
+## 📬 Contact Me
 
-## 📫 Connect with Me
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anthonybanion@gmail.com)
+
+---
+
+## 🌐 Social Media
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonybanion/)
-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anthonybanion/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caterva17@gmail.com)
 - [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anthonybanion)
+
+---
+
+## ✍️ My Blogs
+
+- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
+- [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
 
 
 
