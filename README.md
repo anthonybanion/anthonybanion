@@ -60,6 +60,11 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
+### 📊 My GitHub Stats:
+
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight)
+
+---
 
 ## ✍️ My Blogs
 
