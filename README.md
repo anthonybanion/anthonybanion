@@ -51,7 +51,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
           alt="C++"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
+          src="https://cdn.simpleicons.org/gnubash/maroon"
           height="40px"
           alt="Bash"
         />
@@ -79,12 +79,12 @@ I'm a backend developer and systems analyst, passionate about building robust an
 <h2 align="center">🔩 Frameworks & Libraries</h2>
       <p align="center">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+          src="https://cdn.simpleicons.org/django/green"
           height="40px"
           alt="Django"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+          src="https://cdn.simpleicons.org/flask/red"
           height="40px"
           alt="Flask"
         />
@@ -94,7 +94,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
           alt="Spring"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg"
+          src="https://cdn.simpleicons.org/symfony/salmon"
           height="40px"
           alt="Symfony"
         />
@@ -104,7 +104,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
           alt="Laravel"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+          src="https://cdn.simpleicons.org/express/gold"
           height="40px"
           alt="Express"
         />
