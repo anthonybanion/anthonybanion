@@ -188,15 +188,21 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ---
 
-## ✍️ My Blogs
+<h2 align="center">✍️ My Blogs</h2>
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anthonybanion)
-
-[![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anthonybanion.blogspot.com/)
-
+<p align="center">
+  <a href="https://dev.to/anthonybanion">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://anthonybanion.blogspot.com/">
+    <img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+  </a>
+</p>
 
 ---
-## 📈 My GitHub Stats:
+
+<h2 align="center">📈 My GitHub Stats:</h2>
 
 <div align="center">
 
