@@ -207,11 +207,9 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 <div align="center">
 
-  <!-- Línea superior: Streak + Stats -->
   <img src="https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-
-  <!-- Línea inferior: Top Languages -->
+   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybanion&langs_count=6&layout=compact&theme=tokyonight" alt="Top Langs"/>
   
 </div>
