@@ -194,11 +194,12 @@ I'm a backend developer and systems analyst, passionate about building robust an
   <a href="https://dev.to/anthonybanion">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br/><br/>
   <a href="https://anthonybanion.blogspot.com/">
     <img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
 </p>
+
 
 ---
 
