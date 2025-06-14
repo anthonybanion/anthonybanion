@@ -198,9 +198,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
 ---
 ## 📈 My GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false)
-
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false)![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybanion&langs_count=6&layout=compact&theme=tokyonight)
 
