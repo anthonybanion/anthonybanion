@@ -200,15 +200,9 @@ I'm a backend developer and systems analyst, passionate about building robust an
 
 ![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybanion&hide=html,css&langs_count=6&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybanion&langs_count=6&layout=compact&theme=tokyonight)
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anthonybanion&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- Requires WakaTime account -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthonybanion)](https://wakatime.com)
-[![Anthony's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anthonybanion&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 <h2 align="center">📬 Contact Me</h2>
