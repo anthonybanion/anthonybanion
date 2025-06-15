@@ -71,7 +71,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
           height="40px"
           alt="TypeScript"
-          titel="TypeScript"
+          title="TypeScript"
         />
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
@@ -155,6 +155,7 @@ I'm a backend developer and systems analyst, passionate about building robust an
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
           height="40px"
           alt="PostgreSQL"
+          title="PostgreSQL"
         />
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
