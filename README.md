@@ -229,19 +229,21 @@ Open to collaborating on interesting projects. If you think I can contribute to 
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=anthonybanion&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonybanion&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybanion&langs_count=6&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  
-</div>
+<img 
+  src="https://streak-stats.demolab.com?user=anthonybanion&theme=transparent&hide_border=false&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" 
+  height="200"
+/>
+
+<img 
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anthonybanion&layout=compact&theme=transparent&hide_border=false&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" 
+/>
 
 ---
 
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:anthonybanion@gmail.com" target="_blank" title="Gmail">
+  <a href="mailto:anthonybanion@gmail.com" target="dark" title="Gmail">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px" alt="Gmail icon" />
   </a>
 </p>
