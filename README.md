@@ -6,15 +6,15 @@
 </p>
 <br>
 
-**Systems Analyst specializing in backend engineering and scalable system design.**
+## Systems Analyst | Backend Developer
 
-I collaborate in professional team environments, contributing to real-world products across multiple domains — from data-driven platforms to complex distributed applications. I work comfortably within agile teams, applying structured problem-solving, system design principles, and clean code practices to every project.
+_Bachelor of Science in Computer Science (in progress)_
 
-While my core strength lies in backend engineering and system architecture, I also have a solid understanding of frontend fundamentals, product structure, and quality assurance processes — enabling me to contribute beyond a single layer of the stack.
+I build backend solutions for real-world products, from data-driven platforms to distributed applications. I work with API design (REST, GraphQL, WebSockets), service architecture, SQL and NoSQL databases, containerization with Docker, and scalable environments. My focus is on building clean, maintainable, and well-structured systems.
 
-I value clarity, maintainability, and thoughtful architectural decisions.
+I also have solid knowledge of frontend fundamentals, UI/UX design, product structure, QA testing, and CI/CD automation, allowing me to operate comfortably across the full development lifecycle.
 
-Open to meaningful collaborations and technically challenging backend projects.
+Open to collaborating on interesting projects. If you think I can contribute to your team, feel free to reach out.
 
 ---
 
