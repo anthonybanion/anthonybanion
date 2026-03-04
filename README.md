@@ -37,18 +37,6 @@ Open to collaborating on interesting projects. If you think I can contribute to 
           title="PHP"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-          height="40px"
-          alt="C"
-          title="C"
-        />
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-          height="40px"
-          alt="C++"
-          title="C++"
-        />
-        <img
           src="https://cdn.simpleicons.org/gnubash/teal"
           height="40px"
           alt="Bash"
@@ -106,12 +94,6 @@ Open to collaborating on interesting projects. If you think I can contribute to 
           title="Symfony"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-          height="40px"
-          alt="Laravel"
-          title="Laravel"
-        />
-        <img
           src="https://cdn.simpleicons.org/express/gold"
           height="40px"
           alt="Express"
@@ -130,12 +112,19 @@ Open to collaborating on interesting projects. If you think I can contribute to 
           title="Vue"
         />
         <img
+          src="https://cdn.simpleicons.org/tailwindcss/38B2AC"
+          height="40px"
+          alt="Tailwind CSS"
+          title="Tailwind CSS"
+        />
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
           height="40px"
           alt="Bootstrap"
           title="Bootstrap"
         />
       </p>
+
 <h2 align="center">🗄️ Databases</h2>
       <p align="center">
         <img
@@ -207,7 +196,21 @@ Open to collaborating on interesting projects. If you think I can contribute to 
           alt="Postman"
           title="Postman"
         />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
+          height="40px"
+          alt="Redis"
+          title="Redis"
+         />
       </p>
+  
+  <h2 align="center">🧬 Inteligencia Artificial</h2>
+    <p align="center">
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40px" alt="TensorFlow" title="TensorFlow" />
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40px" alt="PyTorch" title="PyTorch" />
+      <img src="https://cdn.simpleicons.org/huggingface/orange" height="40px" alt="Hugging Face" title="Hugging Face" />
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40px" alt="n8n" title="n8n" />
+      <img src="https://cdn.simpleicons.org/replicate/grey" height="40px" alt="Replicate" title="Replicate" />
+    </p>
 
 ---
 
