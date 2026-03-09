@@ -1,12 +1,18 @@
 # Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anthony Bañon ✨
 
+</br>
 <p align="center">
-  <img src="./assets/img/logo_alto.svg" alt="logo" height="250" />
+  <img src="./assets/img/logo_ficha.svg" alt="logo" height="250" />
 </p>
+</br>
+
+<center>
 
 ## Systems Analyst | Backend Developer
 
 _Bachelor of Science in Computer Science (in progress)_
+
+</center>
 
 I build backend solutions for real-world products, from data-driven platforms to distributed applications. I work with API design (REST, GraphQL, WebSockets), service architecture, SQL and NoSQL databases, containerization with Docker, and scalable environments. My focus is on building clean, maintainable, and well-structured systems.
 
