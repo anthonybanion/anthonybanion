@@ -6,13 +6,13 @@
 </p>
 </br>
 
-<center>
+<div align="center">
 
 ## Systems Analyst | Backend Developer
 
 _Bachelor of Science in Computer Science (in progress)_
 
-</center>
+</div>
 
 I build backend solutions for real-world products, from data-driven platforms to distributed applications. I work with API design (REST, GraphQL, WebSockets), service architecture, SQL and NoSQL databases, containerization with Docker, and scalable environments. My focus is on building clean, maintainable, and well-structured systems.
 
