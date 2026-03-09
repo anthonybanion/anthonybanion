@@ -4,7 +4,6 @@
 <p align="center">
   <img src="./assets/img/logo_ficha.svg" alt="logo" height="250" />
 </p>
-</br>
 
 <div align="center">
 
